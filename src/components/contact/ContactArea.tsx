@@ -97,8 +97,8 @@ const ContactArea = () => {
                             </svg>
                         </div>
                         <div>
-                            <p>info@superrangeservice.com</p>
-                            <p>service@superrangeservice.com</p>
+                            <p>contact@superrange.ae</p>
+                            <p>contact@superrange.ae</p>
                         </div>
                     </div>
                 </div>

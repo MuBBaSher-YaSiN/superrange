@@ -116,7 +116,7 @@ const FooterOne = ({style_2}: any) => {
                                 View on Google Maps
                             </a>
                         </div>
-                        <a href="mailto:info@superrangeservice.com" className="email">
+                        <a href="mailto:contact@superrange.ae" className="email">
                             <span className="me-1">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18"
                                     fill="none">
@@ -142,7 +142,7 @@ const FooterOne = ({style_2}: any) => {
                                     </defs>
                                 </svg>
                             </span>
-                            info@superrangeservice.com
+                         contact@superrange.ae
                         </a>
                         
                     </div>
