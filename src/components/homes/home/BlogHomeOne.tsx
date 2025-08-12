@@ -13,8 +13,7 @@ const BlogHomeOne = () => {
                 </div>
                 <div className="text-md-center">
                     <h2 className="ak-section-title">Blog / News</h2>
-                    <p className="ak-section-subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting
-                        industry. Lorem Ipsum has been the industry's stan.</p>
+                    <p className="ak-section-subtitle">Explore more expert tips, guides, and stories to keep your car running at its best.</p>
                 </div>
             </div>
         </div>

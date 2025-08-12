@@ -16,9 +16,7 @@ const PriceHomeOne = ({style_2}: any) => {
                             Pricing</div>
                         <h2 className="ak-section-title">
                             Pricing</h2>
-                        <p className="ak-section-subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting
-                            industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is simply dummy text of the
-                            printing and typesetting industry.</p>
+                        <p className="ak-section-subtitle">Transparent pricing, no surprises—just honest rates for quality repairs. Get the best value for your car with packages tailored to your needs.</p>
                     </div>
                 </div>
                 <div className="ak-height-50 ak-height-lg-50"></div>

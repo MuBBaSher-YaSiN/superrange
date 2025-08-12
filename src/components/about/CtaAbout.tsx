@@ -14,10 +14,7 @@ const CtaAbout = () => {
 							Get in touch with our experts
 						</h2>
 						<p className="cta-desp">
-							Lorem Ipsum is simply dummy text of the printing and typesetting
-							industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is
-							simply dummy text of the printing and typesetting industry. Lorem
-							Ipsum has been the industry's stan.
+							Got car troubles? Let SuperRange bring your ride back to life! Our expert mechanics are just a message away—fast, reliable, and ready to get you back on the road. Reach out today and experience top-tier car care that goes the extra mile.
 						</p>
 						<Link href="/contact" className="cta-btn">
 							<img src="assets/img/phone.svg" alt="..." />

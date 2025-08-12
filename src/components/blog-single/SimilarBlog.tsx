@@ -11,8 +11,7 @@ const SimilarBlog = () => {
             <div className="ak-section-heading ak-style-1 ak-type-1">
                 <div className="background-text">SIMILARBLOG</div>
                 <h2 className="ak-section-title">SIMILAR BLOG</h2>
-                <p className="ak-section-subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry's stan.</p>
+                <p className="ak-section-subtitle"> Explore more expert tips, guides, and stories to keep your car running at its best.</p>
             </div>
         </div>
         <div className="ak-height-50 ak-height-lg-50"></div>

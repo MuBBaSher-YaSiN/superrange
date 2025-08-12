@@ -11,8 +11,7 @@ const TeamHomeOne = () => {
                     <div className="ak-section-heading ak-style-1">
                         <div className="background-text" data-aos="fade-right" data-aos-duration="1000">Team</div>
                         <h2 className="ak-section-title">Our Team</h2>
-                        <p className="ak-section-subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting
-                            industry. Lorem Ipsum has been the industry's stan.</p>
+                        <p className="ak-section-subtitle">Meet the skilled Super Range team—driven by passion, powered by expertise.</p>
                     </div>
                     <div className="ak-height-50 ak-height-lg-10"></div>
                     <Link href="/team" className="more-btn">VIEW MORE</Link>

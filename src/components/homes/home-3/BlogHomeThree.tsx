@@ -24,9 +24,7 @@ const BlogHomeThree = () => {
                         <div className="card-info">
                             <Link href="/services-single" className="card-title">Performance Upgrades and Customization</Link>
                             <p className="card-desp">
-                                Lorem Ipsum is simply dummy text of the printing and
-                                typesetting industry. Lorem Ipsum has been the industry's
-                                stan.
+                               Boost your ride’s power and style with SuperRange’s performance upgrades and custom builds.
                             </p>
                             <Link href="/services-single" className="more-btn">VIEW MORE</Link>
                         </div>
@@ -40,9 +38,7 @@ const BlogHomeThree = () => {
                             <Link href="/services-single" className="card-title">From Garage to Glory: Transform Your
                                 Vehicle's Health</Link>
                             <p className="card-desp">
-                                Lorem Ipsum is simply dummy text of the printing and
-                                typesetting industry. Lorem Ipsum has been the industry's
-                                stan.
+                                From garage to glory—Super Range transforms your vehicle’s health for peak performance and reliability.
                             </p>
                             <Link href="/services-single" className="more-btn">VIEW MORE</Link>
                         </div>
@@ -56,9 +52,7 @@ const BlogHomeThree = () => {
                             <Link href="/services-single" className="card-title">The Roadmap to Reliability Essential Car
                                 Care Tips</Link>
                             <p className="card-desp">
-                                Lorem Ipsum is simply dummy text of the printing and
-                                typesetting industry. Lorem Ipsum has been the industry's
-                                stan.
+                                Your roadmap to reliability—essential car care tips to keep you confidently on the road.
                             </p>
                             <Link href="/services-single" className="more-btn">VIEW MORE</Link>
                         </div>
@@ -72,9 +66,7 @@ const BlogHomeThree = () => {
                             <Link href="/services-single" className="card-title">From Garage to Glory: Transform Your
                                 Vehicle's Health</Link>
                             <p className="card-desp">
-                                Lorem Ipsum is simply dummy text of the printing and
-                                typesetting industry. Lorem Ipsum has been the industry's
-                                stan.
+                               From garage to glory—Super Range transforms your vehicle’s health for peak performance and reliability.
                             </p>
                             <Link href="/services-single" className="more-btn">VIEW MORE</Link>
                         </div>
@@ -89,9 +81,7 @@ const BlogHomeThree = () => {
                         </div>
                         <h2 className="ak-section-title">Blog / News</h2>
                         <p className="ak-section-subtitle">
-                            Lorem Ipsum is simply dummy text of the printing <br />
-                            and typesetting industry. Lorem Ipsum has been <br />
-                            the industry's stan.
+                           Stay tuned with the latest automotive news, tips, and stories from the SuperRange garage.
                         </p>
                     </div>
                     <div className="ak-height-50 ak-height-lg-10"></div>
