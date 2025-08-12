@@ -1,22 +1,18 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import ReactDOM from "react-dom";
 
 export default function ContactPopup() {
   const [isPopupOpen, setIsPopupOpen] = useState(false);
-  const [mounted, setMounted] = useState(false);
 
-  useEffect(() => {
-    setMounted(true); // Avoid SSR document errors
-  }, []);
-
-  const openWhatsApp = (number) => {
+  // just type the parameter
+  const openWhatsApp = (number: string) => {
     const url = `https://wa.me/${number.replace(/\D/g, "")}`;
     window.open(url, "_blank");
   };
 
   const popupContent = (
     <div
-      className="!fixed !inset-0 bg-black bg-opacity-50 flex items-center justify-center z-[2147483647]"
+      className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-[111111222]"
       onClick={() => setIsPopupOpen(false)}
     >
       <div
@@ -48,7 +44,6 @@ export default function ContactPopup() {
 
   return (
     <>
-      {/* Trigger button */}
       <div
         className="flex items-center gap-3 cursor-pointer"
         onClick={() => setIsPopupOpen(true)}
@@ -60,7 +55,8 @@ export default function ContactPopup() {
         </div>
       </div>
 
-      {isPopupOpen && mounted &&
+      {isPopupOpen &&
+        typeof document !== "undefined" &&
         ReactDOM.createPortal(popupContent, document.body)}
     </>
   );
