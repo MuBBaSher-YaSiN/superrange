@@ -15,7 +15,7 @@ const Service2HomeOne = ({ style_2 }: any) => {
 
     return (
         <>
-            <div className="ak-height-125 ak-height-lg-80"></div>
+            <div className="ak-height-125 mt-5 sm:mt-0 ak-height-lg-80"></div>
             <div className="d-flex justify-content-center">
                 <div className="sticky-content container" >
                     <div className="content style_2">

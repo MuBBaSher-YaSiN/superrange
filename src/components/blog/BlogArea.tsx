@@ -273,7 +273,7 @@ import React from 'react';
 const BlogArea = () => {
     return (
         <>
-            <div className="ak-height-75 ak-height-lg-80"></div>
+            <div className="ak-height-75 mt-5 ak-height-lg-80"></div>
             <section className="container">
                 <div className="blog-feature">
                     <div className="feature-content" data-aos="fade-right" data-aos-delay="600">

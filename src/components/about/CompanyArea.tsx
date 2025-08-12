@@ -109,7 +109,7 @@ const CompanyArea = () => {
   };
 
   return (
-		<div className="container">
+		<div className="container mt-5">
 		<div className="ak-height-125 ak-height-lg-80"></div>
 		<div className="company-tab">
 			<ul className="tabs">

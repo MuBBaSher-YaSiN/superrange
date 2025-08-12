@@ -9,7 +9,7 @@ const Service = () => {
 	return (
 		<>
 			<HeaderOne />
-			<Breadcrumb subtitle="Service" />
+			{/* <Breadcrumb subtitle="Service" /> */}
       <Service2HomeOne style_2={true} />
       <CtaAbout />
       <FooterOne />

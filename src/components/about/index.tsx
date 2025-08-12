@@ -15,7 +15,7 @@ const About = () => {
 	return (
 		<>
 			<HeaderOne />
-      <Breadcrumb subtitle="About Us" />
+      {/* <Breadcrumb subtitle="About Us" /> */}
       <CompanyArea />
       <ChooseArea />
 			<FunfactHomeOne />
