@@ -35,7 +35,7 @@ const Service2HomeOne = ({ style_2 }: any) => {
                             ))}
                         </div>
                     </div>
-                    <div className="sidebar width-none">
+                    <div className=" width-none">
                         <div className="services-content">
                             <div className="ak-section-heading ak-style-1">
                                 <div className="background-text" data-aos="fade-right" data-aos-duration="1000">Services</div>
