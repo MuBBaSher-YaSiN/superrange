@@ -75,14 +75,14 @@ const FaqArea = () => {
                     </div>
                     <div className="d-flex align-items-center gap-3">
                         <div className="heartbeat-icon">
-                            <a href="emailto:example@email.com">
+                            <a href="emailto:contact@superrange.ae">
                                 <span className="ak-heartbeat-btn"><img src="assets/img/email.svg" alt="..." /></span>
                             </a>
                         </div>
-                        <h3> example@email.com</h3>
+                        <h3>contact@superrange.ae</h3>
                     </div>
                     <div className="ak-location">
-                        <a href="#" className=" d-flex gap-2 text-hover-animaiton">
+                        <a href="/" className=" d-flex gap-2 text-hover-animaiton">
                             <span className="me-1">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="19" viewBox="0 0 15 19"
                                     fill="none">
@@ -96,7 +96,7 @@ const FaqArea = () => {
                         </a>
                     </div>
                     <div className="ak-date-time">
-                        <a href="#" className="d-flex gap-2 date text-hover-animaiton">
+                        <a href="/" className="d-flex gap-2 date text-hover-animaiton">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20"
                                     fill="none">

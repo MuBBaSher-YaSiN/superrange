@@ -43,7 +43,7 @@ const Service2HomeOne = ({ style_2 }: any) => {
                                 <p className="ak-section-subtitle">Our comprehensive automotive services combine expert craftsmanship with cutting-edge technology. From routine maintenance to complex repairs, our certified technicians deliver reliable solutions that keep your vehicle running safely and efficiently on the road.</p>
                             </div>
                             <div className="ak-height-50 ak-height-lg-10"></div>
-                            <a href="#" className="more-btn">VIEW All SERVICES</a>
+                            <a href="/" className="more-btn">VIEW All SERVICES</a>
                         </div>
                     </div>
                 </div>

@@ -82,7 +82,7 @@ const BlogSingleArea = () => {
                 <div className="d-flex align-items-center">
                     <p className="me-5">Social Share:</p>
                     <div className="social-icon">
-                        <a href="#">
+                        <a href="/">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17"
                                 fill="none">
                                 <g clipPath="url(#clip0_365_2387)">
@@ -103,7 +103,7 @@ const BlogSingleArea = () => {
                                 </defs>
                             </svg>
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17"
                                 fill="none">
                                 <g clipPath="url(#clip0_365_2385)">
@@ -119,7 +119,7 @@ const BlogSingleArea = () => {
                                 </defs>
                             </svg>
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17"
                                 fill="none">
                                 <g clipPath="url(#clip0_365_2391)">
@@ -141,7 +141,7 @@ const BlogSingleArea = () => {
                                 </defs>
                             </svg>
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17"
                                 fill="none">
                                 <path

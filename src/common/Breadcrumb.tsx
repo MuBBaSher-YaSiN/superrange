@@ -205,7 +205,7 @@ const Breadcrumb = ({subtitle}: any) => {
                                 <p className="ak-font-18 ak-white-color ak-semi-bold">example@email.com</p>
                             </div>
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <div className="d-flex align-items-center gap-2">
                                 <div className="heartbeat-icon">
                                     <svg width="61" height="60" viewBox="0 0 61 60" fill="none"
@@ -272,7 +272,7 @@ const Breadcrumb = ({subtitle}: any) => {
                 </div>
                 <div className="social-hero">
                    
-                    <a href="" className="social-icon1">
+                    <a href="/" className="social-icon1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
                             <g clipPath="url(#clip0_64_133)">
                                 <path

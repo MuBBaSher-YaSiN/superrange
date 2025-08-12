@@ -78,7 +78,7 @@ const PricingHomeThree = () => {
                             <p className="title">Interior Exterior Detailing</p>
                         </div>
                     </div>
-                    <a href="#" className="get-started-btn">
+                    <a href="/" className="get-started-btn">
                         <span>GET
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17"
@@ -156,7 +156,7 @@ const PricingHomeThree = () => {
                             <p className="title">Interior Exterior Detailing</p>
                         </div>
                     </div>
-                    <a href="#" className="get-started-btn">
+                    <a href="/" className="get-started-btn">
                         <span>GET
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17"
@@ -234,7 +234,7 @@ const PricingHomeThree = () => {
                             <p className="title">Interior Exterior Detailing</p>
                         </div>
                     </div>
-                    <a href="#" className="get-started-btn">
+                    <a href="/" className="get-started-btn">
                         <span>GET
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17"
@@ -312,7 +312,7 @@ const PricingHomeThree = () => {
                             <p className="title">Interior Exterior Detailing</p>
                         </div>
                     </div>
-                    <a href="#" className="get-started-btn">
+                    <a href="/" className="get-started-btn">
                         <span>GET
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17"

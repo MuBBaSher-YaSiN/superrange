@@ -95,7 +95,7 @@ const BlogHomeThree = () => {
                         </p>
                     </div>
                     <div className="ak-height-50 ak-height-lg-10"></div>
-                    <a href="" className="more-btn">View All Articles</a>
+                    <a href="/" className="more-btn">View All Articles</a>
                 </div>
             </div>
         </div>

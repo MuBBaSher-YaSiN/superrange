@@ -206,7 +206,7 @@ const HeroHomeOne = () => {
                                 <p className="ak-font-18 ak-white-color ak-semi-bold">example@email.com</p>
                             </div>
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <div className="d-flex align-items-center gap-2">
                                 <div className="heartbeat-icon">
                                     <svg width="61" height="60" viewBox="0 0 61 60" fill="none"
@@ -272,47 +272,8 @@ const HeroHomeOne = () => {
                     <div className="hero-swiper-pagination"></div>
                 </div>
                 <div className="social-hero">
-                    {/* <a href="" className="social-icon1">
-                <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
-                    <path
-                        d="M9.27491 8.83093L2.5 3.00265L2.5 4.38377L8.38256 9.44446L2.5 13.4864L2.5 18.1484L11.3955 12.0361L18.5 18.1484L18.5 16.7672L12.2878 11.4229L18.5 7.15432L18.5 2.49239L9.27491 8.83127L9.27491 8.83093ZM11.4738 10.7227L10.5881 11.342L3.53974 16.2695L3.53974 14.1481L9.22795 10.1715L10.1137 9.55219L17.5075 4.38311L17.5075 6.50455L11.4742 10.7227L11.4738 10.7227Z"
-                        fill="white" />
-                </svg>
-            </a>
-            <a href="" className="social-icon1">
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <g clipPath="url(#clip0_64_135)">
-                        <path
-                            d="M16.5 0.324375L16.4993 0.320374L10.6313 0.320374C7.76068 0.320374 5.54935 0.938375 5.54935 4.29437C5.54935 5.90771 6.43468 6.99037 7.27401 7.43237L7.27401 7.47904L5.81735 7.47904L5.81735 10.661L16.4993 10.661L16.4993 7.34771L11.21 7.34771C9.81735 7.34771 8.47068 7.08371 8.47068 5.35904C8.47068 3.65971 10.06 3.63437 11.2993 3.63437L16.5 3.63437L16.5 0.324375Z"
-                            fill="white" />
-                        <path d="M5.81799 16.0564L5.81799 12.739L16.5 12.739L16.5 16.0564L5.81799 16.0564Z"
-                            fill="white" />
-                        <path
-                            d="M0.5 14.399C0.5 15.4597 1.36067 16.3204 2.42133 16.3204C3.482 16.3204 4.36067 15.4597 4.36067 14.399C4.36067 13.3384 3.482 12.4777 2.42133 12.4777C1.36067 12.4784 0.5 13.339 0.5 14.399Z"
-                            fill="white" />
-                    </g>
-                    <defs>
-                        <clipPath id="clip0_64_135">
-                            <rect width="16" height="16" fill="white" transform="translate(0.5 16.3204) rotate(-90)" />
-                        </clipPath>
-                    </defs>
-                </svg>
-            </a>
-            <a href="" className="social-icon1">
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <g clipPath="url(#clip0_64_133)">
-                        <path
-                            d="M16.5 7.08128L9.20218 7.08128L9.20218 4.63269L6.35725 4.26533L6.35725 7.08128L4.54118 7.08128C3.71776 7.08128 3.15661 6.85356 3.15661 5.67145L3.15599 4.16622L0.611384 4.16622C0.577556 4.42653 0.5 5.32007 0.5 6.36007C0.5 8.53175 1.82557 10.0185 4.25942 10.0185L6.35725 10.0185L6.35725 12.4745L9.20218 12.4745L9.20218 10.0185L16.5 10.0185L16.5 7.08128Z"
-                            fill="white" />
-                    </g>
-                    <defs>
-                        <clipPath id="clip0_64_133">
-                            <rect width="16" height="16" fill="white" transform="translate(0.5 16.3204) rotate(-90)" />
-                        </clipPath>
-                    </defs>
-                </svg>
-            </a> */}
-                    <a href="" className="social-icon1">
+                
+                    <a href="/" className="social-icon1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
                             <g clipPath="url(#clip0_64_133)">
                                 <path

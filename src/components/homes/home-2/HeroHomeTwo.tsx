@@ -41,7 +41,7 @@ const HeroHomeTwo = () => {
                               <div className="social-hero-two">
                                   <h6 className="social-link">FOLLOW US</h6>
                                   <div className="social-horizontal"></div>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"
                                           viewBox="0 0 16 17" fill="none">
                                           <g clipPath="url(#clip0_1730_636)">
@@ -57,7 +57,7 @@ const HeroHomeTwo = () => {
                                           </defs>
                                       </svg>
                                   </a>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"
                                           viewBox="0 0 16 17" fill="none">
                                           <g clipPath="url(#clip0_1730_638)">
@@ -78,7 +78,7 @@ const HeroHomeTwo = () => {
                                           </defs>
                                       </svg>
                                   </a>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21"
                                           viewBox="0 0 20 21" fill="none">
                                           <path
@@ -115,7 +115,7 @@ const HeroHomeTwo = () => {
                               <div className="social-hero-two">
                                   <h6 className="social-link">FOLLOW US</h6>
                                   <div className="social-horizontal"></div>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"
                                           viewBox="0 0 16 17" fill="none">
                                           <g clipPath="url(#clip0_1730_636)">
@@ -131,7 +131,7 @@ const HeroHomeTwo = () => {
                                           </defs>
                                       </svg>
                                   </a>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"
                                           viewBox="0 0 16 17" fill="none">
                                           <g clipPath="url(#clip0_1730_638)">
@@ -152,7 +152,7 @@ const HeroHomeTwo = () => {
                                           </defs>
                                       </svg>
                                   </a>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21"
                                           viewBox="0 0 20 21" fill="none">
                                           <path
@@ -189,7 +189,7 @@ const HeroHomeTwo = () => {
                               <div className="social-hero-two">
                                   <h6 className="social-link">FOLLOW US</h6>
                                   <div className="social-horizontal"></div>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"
                                           viewBox="0 0 16 17" fill="none">
                                           <g clipPath="url(#clip0_1730_636)">
@@ -205,7 +205,7 @@ const HeroHomeTwo = () => {
                                           </defs>
                                       </svg>
                                   </a>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"
                                           viewBox="0 0 16 17" fill="none">
                                           <g clipPath="url(#clip0_1730_638)">
@@ -226,7 +226,7 @@ const HeroHomeTwo = () => {
                                           </defs>
                                       </svg>
                                   </a>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21"
                                           viewBox="0 0 20 21" fill="none">
                                           <path
@@ -263,7 +263,7 @@ const HeroHomeTwo = () => {
                               <div className="social-hero-two">
                                   <h6 className="social-link">FOLLOW US</h6>
                                   <div className="social-horizontal"></div>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"
                                           viewBox="0 0 16 17" fill="none">
                                           <g clipPath="url(#clip0_1730_636)">
@@ -279,7 +279,7 @@ const HeroHomeTwo = () => {
                                           </defs>
                                       </svg>
                                   </a>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"
                                           viewBox="0 0 16 17" fill="none">
                                           <g clipPath="url(#clip0_1730_638)">
@@ -300,7 +300,7 @@ const HeroHomeTwo = () => {
                                           </defs>
                                       </svg>
                                   </a>
-                                  <a href="#" className="social-icon1">
+                                  <a href="/" className="social-icon1">
                                       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21"
                                           viewBox="0 0 20 21" fill="none">
                                           <path

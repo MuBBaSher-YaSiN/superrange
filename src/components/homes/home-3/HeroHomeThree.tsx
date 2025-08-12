@@ -174,7 +174,7 @@ const HeroHomeThree = () => {
                 <div className="social-hero-two">
                     <h6 className="social-link">FOLLOW US</h6>
                     <div className="social-horizontal"></div>
-                    <a href="#" className="social-icon1">
+                    <a href="/" className="social-icon1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none">
                             <g clipPath="url(#clip0_1730_636)">
                                 <path
@@ -189,7 +189,7 @@ const HeroHomeThree = () => {
                             </defs>
                         </svg>
                     </a>
-                    <a href="#" className="social-icon1">
+                    <a href="/" className="social-icon1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none">
                             <g clipPath="url(#clip0_1730_638)">
                                 <path
@@ -208,7 +208,7 @@ const HeroHomeThree = () => {
                             </defs>
                         </svg>
                     </a>
-                    <a href="#" className="social-icon1">
+                    <a href="/" className="social-icon1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
                             <path
                                 d="M11.4952 9.14606L17.3234 2.37115H15.9423L10.8816 8.25371L6.83966 2.37115L2.17773 2.37115L8.28998 11.2666L2.17773 18.3712H3.55893L8.90316 12.159L13.1718 18.3712H17.8337L11.4948 9.14606H11.4952ZM9.60342 11.345L8.98412 10.4592L4.05659 3.41089L6.17803 3.41089L10.1546 9.09911L10.7739 9.9849L15.943 17.3787H13.8215L9.60342 11.3453V11.345Z"

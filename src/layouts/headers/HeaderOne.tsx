@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import Navbar from './Navbar';
 import Link from 'next/link';
 import MobileMenu from './MobileMenu';
-import ContactPopup from './ContactPopup';
+// import ContactPopup from './ContactPopup';
 const HeaderOne = () => {
 
     const [isSticky, setIsSticky] = useState(false);
@@ -79,18 +79,18 @@ const HeaderOne = () => {
                         <span className={`ak-munu_toggle ${menuOpen ? "ak-toggle_active" : ""}`} onClick={handleMenuToggle}><span></span></span>
 
                     </div>
-                    {/* <div className="ak-main-header-right">
+                    <div className="ak-main-header-right">
                         <a href="tel:1-800-915-6271">
                             <div className="d-flex align-items-center gap-3">
                                 <div className="heartbeat-icon">
                                     <span className="ak-heartbeat-btn"><img src="assets/img/phone.svg" alt="..." /></span>
                                 </div>
                                 <h6> +971-56-484 6499</h6>
-                               //<h6> +971-55-710 8899</h6> 
+                               {/* //<h6> +971-55-710 8899</h6>  */}
                             </div>
                         </a>
-                    </div> */}
-                    <ContactPopup />
+                    </div>
+                    {/* <ContactPopup /> */}
                 </div>
             </div>
         </div>
