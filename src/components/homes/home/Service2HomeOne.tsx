@@ -22,17 +22,7 @@ const Service2HomeOne = ({ style_2 }: any) => {
                         <div className="service">
                             {data.map((item, i) => (
                                 <div key={i} className="service-card" data-aos="fade-left">
-                                    {/* <Link href="/services-single" className="card-img">
-                                        <Image src={item.img} className="ak-bg" alt="..." />
-                                    </Link>
-                                    <div className="card-info">
-                                        <Link href="/services-single" className="card-title">Performance Upgrades and Customization
-                                        </Link>
-                                        <p className="card-desp">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                            industry.
-                                            Lorem Ipsum has been the industry's stan.</p>
-                                        <Link href="/services-single" className="more-btn">VIEW MORE</Link>
-                                    </div> */}
+                                    
                                     <Link href="/services-single" className="card-img">
                                         <Image src={item.img} className="ak-bg" alt="..." />
                                     </Link>
