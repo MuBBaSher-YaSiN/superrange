@@ -20,9 +20,9 @@ const TeamArea = ({style_2, style_3}: any) => {
               </div>
               <div className="text-md-center">
                   <h2 className="ak-section-title">Our Team</h2>
-                  <p className="ak-section-subtitle">
-                      Lorem Ipsum is simply dummy text of the printing and typesetting
-                      <br />industry. Lorem Ipsum has been the industry's stan.
+                  <p className="ak-Loremsection-subtitle">
+                       Meet the SuperRange team—skilled professionals dedicated 
+                      <br />to keeping your vehicle in peak condition.
                   </p>
               </div>
           </div>

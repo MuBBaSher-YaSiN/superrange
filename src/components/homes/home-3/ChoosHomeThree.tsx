@@ -13,10 +13,7 @@ const ChoosHomeThree = () => {
                     <div className="background-text">Feature</div>
                     <h2 className="ak-section-title">Why Choose Us</h2>
                     <p className="ak-section-subtitle">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting
-                        industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is
-                        simply dummy text of the printing and typesetting industry. Lorem
-                        Ipsum has been the industry's stan.
+                        At SuperRange, we combine expert craftsmanship with a passion for cars, ensuring every repair meets the highest standards. With transparent pricing, quick turnaround, and a customer-first approach, we keep you and your vehicle moving smoothly.
                     </p>
                 </div>
                 <div className="ak-height-60 ak-height-lg-30"></div>

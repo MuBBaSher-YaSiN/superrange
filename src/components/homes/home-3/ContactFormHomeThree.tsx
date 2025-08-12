@@ -12,9 +12,7 @@ const ContactFormHomeThree = () => {
                     Request for a appointment
                 </h2>
                 <p className="mb-2">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is
-                    simply dummy text of the printing and typesetting industry.
+                    Ready to give your car the care it deserves? Book your appointment with SuperRange today and let our experts handle the rest.
                 </p>
                 <div className="ak-height-40 ak-height-lg-30"></div>
                 <div className="images" data-aos="fade-up" data-aos-delay="150">

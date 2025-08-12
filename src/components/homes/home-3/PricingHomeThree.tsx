@@ -14,9 +14,7 @@ const PricingHomeThree = () => {
                     </div>
                     <h2 className="ak-section-title">Pricing</h2>
                     <p className="ak-section-subtitle">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting
-                        industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is
-                        simply dummy text of the printing and typesetting industry.
+                        At Super Range, you get clear, upfront pricing with no hidden costs—just honest rates for exceptional service. Choose from flexible packages designed to fit your needs and budget.
                     </p>
                 </div>
             </div>

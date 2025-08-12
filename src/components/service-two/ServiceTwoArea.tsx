@@ -23,8 +23,8 @@ const ServiceTwoArea = ({style_2}: any) => {
                 </div>
                 <div className="text-md-center">
                     <h2 className="ak-section-title">DEDICATED SERVICES</h2>
-                    <p className="ak-section-subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting
-                        <br />industry. Lorem Ipsum has been the industry's stan.
+                    <p className="ak-section-subtitle">Experience tailored care with SuperRange’s dedicated services
+                        <br />personalized solutions designed to meet your vehicle’s unique needs.
                     </p>
                 </div>
             </div>

@@ -15,9 +15,7 @@ const CtaHomeThree = () => {
             </div>
             <div className="desp-area">
                 <p className="desp">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is
-                    simply dummy text of the printing and typesetting industry.
+                    Your car deserves expert care, and SuperRange delivers just that—fast, reliable, and hassle-free. Reach out today and let us get you back on the road with confidence.
                 </p>
                 <Link href="/appointment" className="common-btn"> VIEW MORE </Link>
             </div>

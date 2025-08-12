@@ -94,11 +94,7 @@ const ServicesSingleArea = () => {
                         </div>
                         <div className="service-desp">
                             <Link href="/services-single" className="title">Brake System Repair</Link>
-                            <p className="desp">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry.
-                                Lorem
-                                Ipsum has been
-                                the industry's stan.</p>
+                            <p className="desp">SuperRange offers top-quality service to keep your vehicle performing at its best—efficient, reliable, and built around your needs.</p>
                             <Link href="/services-single" className="more-btn ">VIEW MORE</Link>
                         </div>
                     </div>
@@ -126,11 +122,7 @@ const ServicesSingleArea = () => {
                         </div>
                         <div className="service-desp">
                             <Link href="/services-single" className="title">Routine Maintenance</Link>
-                            <p className="desp">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry.
-                                Lorem
-                                Ipsum has been
-                                the industry's stan.</p>
+                            <p className="desp">Stay ahead of breakdowns with SuperRange’s routine maintenance—regular checkups that keep your vehicle safe, efficient, and road-ready.</p>
                             <Link href="/services-single" className="more-btn ">VIEW MORE</Link>
                         </div>
                     </div>
@@ -148,11 +140,7 @@ const ServicesSingleArea = () => {
                         </div>
                         <div className="service-desp">
                             <Link href="/services-single" className="title">Diagnostic Services</Link>
-                            <p className="desp">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry.
-                                Lorem
-                                Ipsum has been
-                                the industry's stan.</p>
+                            <p className="desp">Pinpoint problems fast with SuperRange’s advanced diagnostic services—accurate results for quicker, cost-effective repairs.</p>
                             <Link href="/services-single" className="more-btn ">VIEW MORE</Link>
                         </div>
                     </div>

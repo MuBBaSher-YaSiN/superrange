@@ -21,9 +21,7 @@ const ServiceHomeThree = () => {
                         <div className="service-info">
                             <h4 className="title">PERFOMANCE CHECK</h4>
                             <p className="desp">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's stan.
-                            </p>
+                               Ensure your vehicle is at its peak with SuperRange’s comprehensive performance check—precision testing for power, safety, and reliability.</p>
                         </div>
                     </div>
                 </div>
@@ -41,8 +39,7 @@ const ServiceHomeThree = () => {
                         <div className="service-info">
                             <h4 className="title">AUTO REPAIR</h4>
                             <p className="desp">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's stan.
+                                From minor fixes to major overhauls, SuperRange delivers expert auto repair to keep your car running smoothly and safely.
                             </p>
                         </div>
                     </div>
@@ -61,8 +58,7 @@ const ServiceHomeThree = () => {
                         <div className="service-info">
                             <h4 className="title">FLEET SERVICES</h4>
                             <p className="desp">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's stan.
+                                Keep your business moving with SuperRange’s reliable fleet services—expert maintenance and repairs to maximize uptime and performance.
                             </p>
                         </div>
                     </div>
