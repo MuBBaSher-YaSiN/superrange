@@ -17,7 +17,6 @@ const ContactArea = () => {
       alert("Message sent!");
       setName("");
       setEmail("");
-      setTopic("");
       setContact("");
       setMsg("");
     }

@@ -12,7 +12,11 @@ interface Contact {
   created_at: string;
 }
 
-export default function DashboardTable({ initialContacts }: { initialContacts: Contact[] }) {
+export default function DashboardTable({
+  initialContacts,
+}: {
+  initialContacts: Contact[];
+}) {
   const [contacts, setContacts] = useState(initialContacts);
   const supabase = createClientComponentClient();
 
