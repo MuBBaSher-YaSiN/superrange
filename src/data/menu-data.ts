@@ -51,11 +51,6 @@ const menu_data = [
     link: "/contact",
     has_dropdown: false,
   },
-  {
-    title: "Dashboard",
-    link: "/login",
-    has_dropdown: false,
-  },
 ];
 
 export default menu_data;

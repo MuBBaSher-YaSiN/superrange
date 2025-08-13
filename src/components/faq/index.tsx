@@ -13,7 +13,7 @@ const Faq = () => {
 			<Breadcrumb subtitle="Faq" />
 			<FaqArea />
       <VideoHomeOne />
-			<AppointmentForm />
+			{/* <AppointmentForm /> */}
 			<FooterOne />
 		</>
 	);

@@ -10,7 +10,7 @@ const Appointment = () => {
     <>
     <HeaderOne />
     <Breadcrumb subtitle="Appointment" />
-    <AppointmentForm />
+    {/* <AppointmentForm /> */}
     <AppointmentFeatur />
     <FooterOne />      
     </>

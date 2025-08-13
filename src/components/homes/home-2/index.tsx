@@ -29,7 +29,7 @@ const HomeTwo = () => {
       <VideoHomeOne />
       <PriceHomeOne style_2={true} />
       <BlogHomeOne />
-      <AppointmentForm />
+      {/* <AppointmentForm /> */}
       <FooterOne style_2={true} />
 
 		</>

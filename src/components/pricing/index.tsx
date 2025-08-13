@@ -12,7 +12,7 @@ const Pricing = () => {
       <HeaderOne />
       <Breadcrumb subtitle="Pricing" />
       <PriceHomeOne style_2={true} />
-      <AppointmentForm />
+      {/* <AppointmentForm /> */}
       <FooterOne />
     </>
   );
