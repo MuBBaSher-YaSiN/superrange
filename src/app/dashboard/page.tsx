@@ -28,21 +28,20 @@ export default async function DashboardPage() {
     redirect("/");
   }
 
-  // Fetch contact form submissions from Supabase
-  const { data: contacts } = await supabase
-    .from<Contact>("contact")
-    .select("*")
-    .order("created_at", { ascending: false });
+ const { data: contacts } = await supabase
+  .from("contact")
+  .select("*")
+  .order("created_at", { ascending: false }) as { data: Contact[] | null };
+
 
   return (
-    <div className="bg-dark text-white min-vh-100 p-4">
-      <h2 className="text-danger mb-4">Contact Form Submissions</h2>
-
-  
-<form action="/logout" method="post">
-  <button className="btn btn-danger mb-3">Logout</button>
-</form>
-
+    <div className="bg-dark text-white min-vh-100 overflow-auto p-4">
+      <div className="d-flex justify-content-between align-items-center mb-4">
+        <h2 className="text-danger mb-0"> Contact Form Submissions</h2>
+        <form action="/logout" method="post">
+          <button className="btn btn-outline-danger">Logout</button>
+        </form>
+      </div>
       <table className="table table-dark table-bordered border-danger">
         <thead>
           <tr>
