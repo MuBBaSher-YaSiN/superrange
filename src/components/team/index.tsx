@@ -5,13 +5,14 @@ import FooterOne from "@/layouts/footers/FooterOne";
 import Breadcrumb from "@/common/Breadcrumb";
 import TeamAbout from "./TeamAbout";
 import TeamArea from "./TeamArea";
+import TeamHomeOne from "../homes/home/TeamHomeOne";
 
 const Team = () => {
 	return (
 		<>
 			<HeaderOne />
 			<Breadcrumb subtitle="Team" />
-			<TeamAbout />
+			<TeamHomeOne/>
 			<TeamArea />
 			<CtaAbout />
 			<FooterOne />

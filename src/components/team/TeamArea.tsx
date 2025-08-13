@@ -32,7 +32,7 @@ const TeamArea = ({style_2, style_3}: any) => {
         <div className="all-members">
             <div className="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 g-4">
                 <div className="col">
-                    <div className="member-card" data-aos="fade-up" data-aos-delay="0">
+                    <div className="member-card mx-auto" data-aos="fade-up" data-aos-delay="0">
                         <Link href="/team-single">
                             <img src="assets/img/member1.jpg" className="member-img ak-bg" alt="..." />
                         </Link>
@@ -54,7 +54,7 @@ const TeamArea = ({style_2, style_3}: any) => {
                     </div>
                 </div>
                 <div className="col">
-                    <div className="member-card" data-aos="fade-up" data-aos-delay="50">
+                    <div className="member-card mx-auto" data-aos="fade-up" data-aos-delay="50">
                         <Link href="/team-single">
                             <img src="assets/img/member2.jpeg" className="member-img ak-bg" alt="..." />
                         </Link>
@@ -76,7 +76,7 @@ const TeamArea = ({style_2, style_3}: any) => {
                     </div>
                 </div>
                 <div className="col">
-                    <div className="member-card" data-aos="fade-up" data-aos-delay="100">
+                    <div className="member-card mx-auto" data-aos="fade-up" data-aos-delay="100">
                         <Link href="/team-single">
                             <img src="assets/img/member_3.jpg" className="member-img ak-bg" alt="..." />
                         </Link>
@@ -99,9 +99,9 @@ const TeamArea = ({style_2, style_3}: any) => {
                 {style_2 ? null :
                 <>
                 <div className="col">
-                    <div className="member-card" data-aos="fade-up" data-aos-delay="0">
+                    <div className="member-card mx-auto" data-aos="fade-up" data-aos-delay="0">
                         <Link href="/team-single">
-                            <img src="assets/img/member_4.jpg" className="member-img ak-bg" alt="..." />
+                            <img src="assets/img/member_4.jpg" className="member-img  ak-bg" alt="..." />
                         </Link>
                         <div className="member-info">
                             <div className="member-title">
@@ -120,7 +120,7 @@ const TeamArea = ({style_2, style_3}: any) => {
                     </div>
                 </div>
                 <div className="col">
-                    <div className="member-card" data-aos="fade-up" data-aos-delay="50">
+                    <div className="member-card mx-auto" data-aos="fade-up" data-aos-delay="50">
                         <Link href="/team-single">
                             <img src="assets/img/member5.jpg" className="member-img ak-bg" alt="..." />
                         </Link>
@@ -142,7 +142,7 @@ const TeamArea = ({style_2, style_3}: any) => {
 
                 </div>
                 <div className="col">
-                    <div className="member-card" data-aos="fade-up" data-aos-delay="100">
+                    <div className="member-card mx-auto" data-aos="fade-up" data-aos-delay="100">
                         <Link href="/team-single">
                             <img src="assets/img/member6.avif" className="member-img ak-bg" alt="..." />
                         </Link>

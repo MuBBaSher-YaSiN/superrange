@@ -7,7 +7,7 @@ const TeamHomeOne = () => {
         <div className="ak-height-190 ak-height-lg-80"></div>
         <div className="container">
             <div className="team-contant">
-                <div className="team-heading" data-aos="fade-right">
+                <div className="team-heading mb-5" data-aos="fade-right">
                     <div className="ak-section-heading ak-style-1">
                         <div className="background-text" data-aos="fade-right" data-aos-duration="1000">Team</div>
                         <h2 className="ak-section-title">Our Team</h2>
@@ -16,7 +16,7 @@ const TeamHomeOne = () => {
                     <div className="ak-height-50 ak-height-lg-10"></div>
                     <Link href="/team" className="more-btn">VIEW MORE</Link>
                 </div>
-                <div className="teams" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="100"
+                {/* <div className="teams" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="100"
                     data-aos-offset="0">
                     <div className="row row-cols-lg-3 row-cols-sm-2 row-cols-1 g-3 g-md-3">
                         <div className="col">
@@ -80,7 +80,7 @@ const TeamHomeOne = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     </>
