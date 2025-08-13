@@ -11,7 +11,7 @@ const ContactArea = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const { error } = await supabase
-      .from("contacts")
+      .from("contact")
       .insert([{ name, email, topic, contact, msg }]);
     if (error) alert(error.message);
     else {
