@@ -3841,7 +3841,7 @@ kbd {
 .member-card {
   position: relative;
   max-width: 420px;
-  max-height: 485px;
+  max-height: 500px;
   flex-shrink: 0;
   display: flex;
   justify-content: center;

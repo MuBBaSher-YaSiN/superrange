@@ -71,7 +71,7 @@ const FooterOne = ({style_2}: any) => {
                         <div className="footer-menu">
                             <p className="menu-title">QUICK LINK</p>
                             <Link href="/about" className="menu-item text-hover-animaiton white">About</Link>
-                            <Link href="/services" className="menu-item text-hover-animaiton white">Services</Link>
+                            <Link href="/service" className="menu-item text-hover-animaiton white">Services</Link>
                             <Link href="/pricing" className="menu-item text-hover-animaiton white">Pricing</Link>
                             <Link href="/team" className="menu-item text-hover-animaiton white">Team</Link>
                             <Link href="/contact" className="menu-item text-hover-animaiton white">Contact Us</Link>

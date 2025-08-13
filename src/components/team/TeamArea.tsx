@@ -34,7 +34,7 @@ const TeamArea = ({style_2, style_3}: any) => {
                 <div className="col">
                     <div className="member-card" data-aos="fade-up" data-aos-delay="0">
                         <Link href="/team-single">
-                            <img src="assets/img/member_1.jpg" className="member-img ak-bg" alt="..." />
+                            <img src="assets/img/member1.jpg" className="member-img ak-bg" alt="..." />
                         </Link>
                         <div className="member-info">
                             <div className="member-title">
@@ -56,7 +56,7 @@ const TeamArea = ({style_2, style_3}: any) => {
                 <div className="col">
                     <div className="member-card" data-aos="fade-up" data-aos-delay="50">
                         <Link href="/team-single">
-                            <img src="assets/img/member_2.jpg" className="member-img ak-bg" alt="..." />
+                            <img src="assets/img/member2.jpeg" className="member-img ak-bg" alt="..." />
                         </Link>
                         <div className="member-info">
                             <div className="member-title">
@@ -122,7 +122,7 @@ const TeamArea = ({style_2, style_3}: any) => {
                 <div className="col">
                     <div className="member-card" data-aos="fade-up" data-aos-delay="50">
                         <Link href="/team-single">
-                            <img src="assets/img/member_5.jpg" className="member-img ak-bg" alt="..." />
+                            <img src="assets/img/member5.jpg" className="member-img ak-bg" alt="..." />
                         </Link>
                         <div className="member-info">
                             <div className="member-title">
@@ -144,7 +144,7 @@ const TeamArea = ({style_2, style_3}: any) => {
                 <div className="col">
                     <div className="member-card" data-aos="fade-up" data-aos-delay="100">
                         <Link href="/team-single">
-                            <img src="assets/img/member_6.jpg" className="member-img ak-bg" alt="..." />
+                            <img src="assets/img/member6.avif" className="member-img ak-bg" alt="..." />
                         </Link>
                         <div className="member-info">
                             <div className="member-title">
