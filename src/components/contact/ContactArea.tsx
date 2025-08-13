@@ -4,7 +4,6 @@ import { supabase } from "@/lib/supabaseClient";
 const ContactArea = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
-  const [topic, setTopic] = useState("");
   const [contact, setContact] = useState("");
   const [msg, setMsg] = useState("");
   const [loading, setLoading] = useState(false);
@@ -12,7 +11,7 @@ const ContactArea = () => {
     e.preventDefault();
     const { error } = await supabase
       .from("contact")
-      .insert([{ name, email, topic, contact, msg }]);
+      .insert([{ name, email, contact, msg }]);
     if (error) alert(error.message);
     else {
       alert("Message sent!");
@@ -77,19 +76,6 @@ const ContactArea = () => {
                 </div>
               </div>
               <div className="from-inputs ">
-                <div className="type_1">
-                  <label htmlFor="topic" className="form-label">
-                    Which topic best matches your question?
-                  </label>
-                  <input
-                    type="text"
-                    value={topic}
-                    onChange={(e) => setTopic(e.target.value)}
-                    name="topic"
-                    id="topic"
-                    required
-                  />
-                </div>
                 <div className="type_1">
                   <label htmlFor="contact" className="form-label">
                     Contact

@@ -7,7 +7,6 @@ interface Contact {
   id: number;
   name: string;
   email: string;
-  topic: string | null;
   contact: string | null;
   msg: string;
   created_at: string;
@@ -34,7 +33,6 @@ export default function DashboardTable({ initialContacts }: { initialContacts: C
         <tr>
           <th>Name</th>
           <th>Email</th>
-          <th>Topic</th>
           <th>Contact</th>
           <th>Message</th>
           <th>Date</th>
@@ -46,7 +44,6 @@ export default function DashboardTable({ initialContacts }: { initialContacts: C
           <tr key={c.id}>
             <td>{c.name}</td>
             <td>{c.email}</td>
-            <td>{c.topic ?? "-"}</td>
             <td>{c.contact ?? "-"}</td>
             <td>{c.msg}</td>
             <td>{new Date(c.created_at).toLocaleString()}</td>
